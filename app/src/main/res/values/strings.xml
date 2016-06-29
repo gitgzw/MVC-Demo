@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MVC-Demo</string>
+    <string name="user_name">UserName</string>
+    <string name="pass_word">PassWord</string>
+    <string name="sign_in">Sign in</string>
+</resources>
