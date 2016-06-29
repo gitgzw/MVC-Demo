@@ -7,7 +7,7 @@ MVC模式的网络请求登录
  * implement 接口
  * model 数据处理层
  
-```Html
+```Code
 Copyright 2016 WangZhiYao
 
 Licensed under the Apache License, Version 2.0 (the "License");
