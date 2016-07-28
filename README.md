@@ -1,12 +1,12 @@
 # MVC-Demo
 MVC模式的网络请求登录  
 
- * activity 相当于View层
+ * activity View层
  * api 封装的网络请求
  * bean Json实体类
  * implement 接口
- * model 数据处理层
- 
+ * model 数据处理层  
+
 ```Code
 Copyright 2016 WangZhiYao
 
